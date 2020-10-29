@@ -1,0 +1,6 @@
+README.md
+setup.py
+VN_text_preprocess.egg-info/PKG-INFO
+VN_text_preprocess.egg-info/SOURCES.txt
+VN_text_preprocess.egg-info/dependency_links.txt
+VN_text_preprocess.egg-info/top_level.txt
