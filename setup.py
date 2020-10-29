@@ -7,8 +7,8 @@ setuptools.setup(
     author_email="phamvananh11150348@gmail.com",
     description="Sort description",
     long_description="Full description",
-    long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    long_description_content_type="README.md",
+    url="https://github.com/Vanh1112/test_package``",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
